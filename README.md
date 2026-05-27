@@ -21,12 +21,12 @@ The system:
 
 ## Pipeline
 
-Fingerprint
-→ Minutiae Extraction
-→ Convex Hull
-→ Centroid Normalization
-→ Collatz Transformation
-→ Secure Vault
+Fingerprint  
+→ Minutiae Extraction  
+→ Convex Hull  
+→ Centroid Normalization  
+→ Collatz Transformation  
+→ Secure Vault  
 
 ## Future Work
 
